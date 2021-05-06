@@ -4,10 +4,10 @@ In this topic titled ‘Automatic music generation’ we will be focussing on ge
   # Instructions for setup
   AMG.html and index.html are the web pages that have been designed for our project.
   
-  ## Code.zip
+  ## Code Folder
   code.zip contains the datasets we have used for our project. This zip file also contains two main files AMG.ipynb and AMGtrain.ipynb. AMG.ipynb is the code which we have used for training our model on different datasets. AMG.ipynb is the file which used these pretrained models to generate music.
   
-  ## AMG_django.zip
+  ## AMG Folder
   AMG_django.zip contains the django project wherein we have integrated our project with the website designed.
   
   # UML diagrams for better understanding of the project

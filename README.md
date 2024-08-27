@@ -1,5 +1,7 @@
 # Automatic-music-Generation
 This was a group project developed by Edwin Fernando (https://github.com/EdwinFernando625) and Me.
+
+
 In this topic titled ‘Automatic music generation’ we will be focussing on generating small pieces of music as the output. Our devised model will be trained using small music files (MIDI). MIDI (Musical Instrument Digital interface) is the type of music files used as they not only contain the actual audio but also some instructions. We then will be using the python library ‘music21’ which will break down these music files into chords and notes and separate them based on their frequency. We will be doing this to get the understanding of what type of frequency notes are combined together to form the actual music. We will be using the LSTM network to ensure the model does not lack structure and long-term dependencies. Being trained on this, now our trained model will take notes and chords as inputs and combine them to try to predict some meaningful music.
   
   # Instructions for setup
